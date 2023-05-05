@@ -18,11 +18,11 @@ dotenv
 express
 sequelize
 
-## screen shoot
-![all groups](Assets/13-orm-homework-demo-01.gif)
+<!-- ## screen shoot -->
+<!-- ![all groups](Assets/13-orm-homework-demo-01.gif)
 ![looking up by ID](Assets/13-orm-homework-demo-02.gif)
-![creating changing and deleting](Assets/13-orm-homework-demo-03.gif)
+![creating changing and deleting](Assets/13-orm-homework-demo-03.gif) -->
 
 
 ## video
-![video](assets/03.05.2023_19.24.07_REC.mp4)
+![video](Assets/04.05.2023_20.41.43_REC.mp4)
